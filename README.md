@@ -2,7 +2,7 @@
 
 This is a simple typing game built with React. The game challenges the user to type a specific set of keys within a given time. It calculates the typing accuracy and provides feedback to the user.
 
-![typing image](../chaabi-assignment-image.png)
+![chaabi-assignment-image](https://github.com/ashokegorlu/typing-game-assignment/assets/126849790/138ffebb-4cae-46a8-8e54-1ade512decc3)
 
 ## Features
 
